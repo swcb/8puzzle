@@ -1,10 +1,10 @@
-# 8-puzzle
+# 🧩 8-puzzle Task
 #### Task para a BemPaggo que consistem em implementar uma versão do jogo de tabuleiro 8-Puzzle.
 
-# 📚 Descrição
+## 📚 Descrição
 
-# 📢 Get started
+## 📢 Get started
 
-# 🚀 Tecnologias
+## 🚀 Tecnologias
 
-# ☑️ Testes
+## ☑️ Testes
